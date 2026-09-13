@@ -1,0 +1,60 @@
+ARMENKR DISCORD — PREMIUM ESPORTS EDITION
+==========================================
+
+Esta versión NO usa la tipografía normal de Discord para la navegación.
+Usa una sola familia visual Unicode de estilo sans-serif bold italic,
+con emojis discretos y el separador ・.
+
+IMPORTANTE
+- La fuente real de la app Discord no se puede cambiar desde un bot.
+- Este diseño usa caracteres Unicode estilizados en nombres y títulos.
+- El texto largo de mensajes se mantiene normal para que siga siendo fácil de leer.
+
+DISEÑO FINAL
+
+👑・𝙄𝙉𝙄𝘾𝙄𝙊
+  👋・𝙗𝙞𝙚𝙣𝙫𝙚𝙣𝙞𝙙𝙖
+  📜・𝙧𝙚𝙜𝙡𝙖𝙨-𝙮-𝙧𝙤𝙡𝙚𝙨
+  📢・𝙖𝙣𝙪𝙣𝙘𝙞𝙤𝙨
+  🔴・𝙧𝙚𝙙𝙚𝙨-𝙮-𝙙𝙞𝙧𝙚𝙘𝙩𝙤𝙨
+
+🎬・𝘾𝙊𝙉𝙏𝙀𝙉𝙄𝘿𝙊
+  💡・𝙞𝙙𝙚𝙖𝙨
+  🎞️・𝙘𝙡𝙞𝙥𝙨
+  🤖・𝙘𝙤𝙢𝙖𝙣𝙙𝙤𝙨-𝙗𝙤𝙩
+
+⚽・𝙁𝘾 27
+  📰・𝙣𝙤𝙩𝙞𝙘𝙞𝙖𝙨-𝙛𝙘
+  🛠️・𝙥𝙖𝙧𝙘𝙝𝙚𝙨-𝙛𝙘
+  ✨・𝙣𝙪𝙚𝙫𝙤-𝙘𝙤𝙣𝙩𝙚𝙣𝙞𝙙𝙤
+
+💬・𝘾𝙊𝙈𝙐𝙉𝙄𝘿𝘼𝘿
+  💬・𝙘𝙝𝙖𝙩
+  😂・𝙢𝙚𝙢𝙚𝙨-𝙮-𝙘𝙡𝙞𝙥𝙨
+  🔊・𝙜𝙚𝙣𝙚𝙧𝙖𝙡
+
+🎮・𝙂𝘼𝙈𝙄𝙉𝙂
+  🎮・𝙤𝙩𝙧𝙤𝙨-𝙟𝙪𝙚𝙜𝙤𝙨
+  🔊・𝙜𝙖𝙢𝙞𝙣𝙜
+
+🔒・𝘼𝙈𝙄𝙂𝙊𝙎
+  💬・𝙘𝙝𝙖𝙩-𝙖𝙢𝙞𝙜𝙤𝙨
+  📅・𝙥𝙡𝙖𝙣𝙚𝙨
+  😂・𝙛𝙤𝙩𝙤𝙨-𝙮-𝙢𝙚𝙢𝙚𝙨
+  🔊・𝙨𝙖𝙡𝙖-𝙙𝙚-𝙖𝙢𝙞𝙜𝙤𝙨
+  🎮・𝙜𝙖𝙢𝙞𝙣𝙜-𝙖𝙢𝙞𝙜𝙤𝙨
+
+🛡️・𝙎𝙏𝘼𝙁𝙁
+  🛡️・𝙨𝙩𝙖𝙛𝙛
+  📋・𝙡𝙤𝙜𝙨
+  🗄️・𝙙𝙖𝙩𝙤𝙨-𝙗𝙤𝙩
+
+INSTALACIÓN
+1. Reemplaza main.py y akr_content.py en tu repo de GitHub.
+2. Espera a que Railway termine el deploy.
+3. Ejecuta UNA VEZ en Discord: /setup_discord_final
+4. No ejecutes /organizar.
+
+Streamcord: Twitch + YouTube -> redes-y-directos
+Noti: TikTok LIVE -> redes-y-directos
+ARMENKR: noticias/parches/contenido FC 27 + comunidad + amigos.

@@ -1,0 +1,21 @@
+ARMENKR // BRAND FINAL
+======================
+
+Qué cambia:
+- Todos los embeds del bot ARMENKR usan una sola identidad: dorado / rojo / negro / azul.
+- Autor y footer uniformes: ARMENKR // CONTENT HQ + FOCO. DISCIPLINA. VICTORIA.
+- Noticias oficiales de EA, parches e ideas usan tarjetas consistentes.
+- Paneles de bienvenida, reglas, redes, FC27 y comandos usan el mismo lenguaje visual.
+- Nuevo comando: /branding_bots
+  Muestra plantillas exactas para configurar Streamcord, Noti y TweetShift con el mismo estilo.
+
+IMPORTANTE:
+Streamcord, Noti y TweetShift son bots externos. ARMENKR no puede editar mensajes ya enviados por ellos.
+Usa /branding_bots y copia las plantillas en sus dashboards si cada servicio permite personalizar título/texto/color.
+
+INSTALACIÓN EN RAILWAY
+1. Sube/reemplaza main.py y akr_content.py en tu repo actual.
+2. Espera a que Railway termine el deploy.
+3. En Discord ejecuta /post_akr_messages para refrescar paneles.
+4. Ejecuta /branding_bots para ver las plantillas de los bots externos.
+5. No necesitas volver a correr /setup_discord_final si la estructura ya está bien.
